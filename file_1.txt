@@ -2,3 +2,6 @@ jack and jill
 date august 22nd
 ocm 8w
 git and github
+VG Text 1
+VG Text 2
+VG Text 3
